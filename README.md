@@ -8,7 +8,8 @@ I am Hammad Younas. An enthusiastic and passionate mobile application and web-de
 * React Native 🚀
 * Node.js (Express.js)
 * SQL and NoSQL databases (MongoDB, etc)
-* Firebase
+* Firebase, Supabase, Strapi
+* CMS
 * AWS Services 
 
 Attention to detail and acquiring optimum results enable me to deliver to the best of my abilities.
