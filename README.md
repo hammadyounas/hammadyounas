@@ -4,6 +4,9 @@ I am Hammad Younas. An enthusiastic and passionate mobile application and web-de
 
 * JavaScript
 * TypeScript
+* Python
+* Flask
+* Fast API
 * React.js / Next.js 🚀
 * React Native 🚀
 * Node.js (Express.js)
